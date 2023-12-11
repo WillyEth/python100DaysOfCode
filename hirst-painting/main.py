@@ -8,7 +8,7 @@
 #     b = color.rgb.b
 #     new_color = (r, g, b)
 #     rgb_colors.append(new_color)
-#
+# test
 #
 # print(rgb_colors)
 import turtle
