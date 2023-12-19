@@ -11,6 +11,8 @@
       <sourceFolder url="file://$MODULE_DIR$/hirst-painting" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/day-19-start" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/snake_game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pong-game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/turtle-crossing-game" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
