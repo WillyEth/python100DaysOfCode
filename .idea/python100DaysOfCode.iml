@@ -15,6 +15,9 @@
       <sourceFolder url="file://$MODULE_DIR$/turtle-crossing-game" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CoffeeMachine" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HigherLowerStart" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day-25-start" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mail-merge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/states-game-start" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
