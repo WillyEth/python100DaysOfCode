@@ -20,6 +20,9 @@
       <sourceFolder url="file://$MODULE_DIR$/day-26-start" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/mail-merge" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/states-game-start" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mile_to_kilo_convertor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tkinter-widget-demo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pomodoro-start" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
