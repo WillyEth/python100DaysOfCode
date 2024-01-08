@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "33ffc36b68676b544524f0ca83034ae1"
+API_KEY = ""
 
 LATITUDE = 41.836811
 LONGITUDE = -87.629799
