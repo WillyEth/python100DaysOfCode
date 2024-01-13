@@ -33,6 +33,8 @@
       <sourceFolder url="file://$MODULE_DIR$/rain-alert" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/flight-deals" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/workout-tracking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bs4-start" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day-48-selenium" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
